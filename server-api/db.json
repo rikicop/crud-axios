@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "id": "164717cb-0c57-4b03-986c-fd8e65018de5",
+      "name": "fer",
+      "email": "ruperto1@protonmail.com",
+      "telefono": "23424",
+      "fecha": "34234",
+      "idusr": "34"
+    },
+    {
+      "id": "7eb43f75-4de1-494b-8b9e-feed69b0bafb",
+      "name": "Bryan",
+      "email": "ricardo9285@gmail.com",
+      "telefono": "55555555",
+      "fecha": "34234",
+      "idusr": "34"
+    },
+    {
+      "id": "62381c93-c75a-489a-8b72-762d4946047b",
+      "name": "Jupiter",
+      "email": "rikotalora@gmail.com",
+      "telefono": "123123",
+      "fecha": "34245",
+      "idusr": "6664"
+    },
+    {
+      "id": "4c1d3ac5-54c4-498e-b226-1a6245688798",
+      "name": "jsm_blog",
+      "email": "ruperto1@protonmail.com",
+      "telefono": "123123",
+      "fecha": "34234",
+      "idusr": "34"
+    },
+    {
+      "id": "92cbe64e-7f5d-4667-a23e-208738fcdd28",
+      "name": "dev",
+      "email": "rikotalora@gmail.com",
+      "telefono": "55555555",
+      "fecha": "34234",
+      "idusr": "38"
+    }
+  ],
+  "programas": [
+    {
+      "id": "df44gdfg",
+      "name": "yupi",
+      "descripcion": "dfsdfsdf",
+      "fecha": "123123",
+      "idusr": "38"
+    },
+    {
+      "id": "df44ffgdfg",
+      "name": "ffsss",
+      "descripcion": "dfsdfsdf",
+      "fecha": "123123",
+      "idusr": "40"
+    }
+  ]
+}
